@@ -21,7 +21,8 @@
 <div align="center">
   <h3>💬 Let's Connect!</h3>
   <p>Feel free to reach out for collabs, questions, or just to say hi!</p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">syedaneebajk00786@gmail.com</a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">
+    syedaneebajk00786@gmail.com</a>
 </div>
 
 <!-- Footer -->
